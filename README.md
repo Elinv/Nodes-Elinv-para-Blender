@@ -11,6 +11,12 @@
 # registrada bajo el [UPC/EAN] 2403117298359
 ----------------------------------------
 
+----------------------------------------
+#Video demostración de funciones en Youtube:
+
+https://www.youtube.com/watch?v=bYpSxRCAsMk
+----------------------------------------
+
 ## Python 3.10.12
 ### En
 ### Python:
