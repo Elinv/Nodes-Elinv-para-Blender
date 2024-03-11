@@ -91,3 +91,35 @@ Experiencia	Windows Feature Experience Pack 1000.22681.1000.0
 ```
 ----------------------------------------
 
+----------------------------------------
+```
+By downloading this addons!
+They declare this
+“disclaimer of responsibilities!”
+"By this reliable means
+I expressly declare that I
+in full use of my mental faculties
+and in full exercise of my intellectual capacity,
+hereby
+“I delimit Elinv
+of all types of CIVIL LIABILITY
+contractual and/or extracontractual,
+that could arise from the use of the Addon
+I will install!” "
+
+[Spanish] Al bajar este addons!
+Declaran este
+“deslinde de responsabilidades!”
+"Por este medio fehaciente
+expreso declaro que yo
+en pleno uso de mis facultades mentales
+y en ejercicio de pleno
+de mi capacidad intelectual,
+por la presente
+“deslindo a Elinv
+de todo tipo de RESPONSABILIDAD CIVIL
+contractual y/o extracontractual,
+que pudiera derivarse del uso del Addon
+que instalaré!” "
+```
+----------------------------------------
