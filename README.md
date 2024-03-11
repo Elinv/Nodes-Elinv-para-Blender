@@ -19,19 +19,22 @@ file system encoding: utf-8:surrogateescape
 
 
 # Probado exitosamente en
-====================================
+# ====================================
 = Blender 4.0.2 System Information =
-====================================
+# ====================================
 Blender:
-====================================
+# ====================================
+---
 version: 4.0.2, branch: blender-v4.0-release, commit date: 2023-12-05 07:41, hash: 9be62e85b727, type: release
 build date: 2023-12-05, 08:48:50
 platform: 'Linux-5.15.0-91-generic-x86_64-with-glibc2.35'
-## --------------------------------------------
+---
+# ====================================
 
 
 # Probado exitosamente en Linux Mint 21 Vanessa
-## --------------------------------------------
+# ====================================
+---
 System:
   Kernel: 5.15.0-91-generic x86_64 bits: 64 compiler: gcc v: 11.4.0 Desktop: Cinnamon 5.4.12
     tk: GTK 3.24.33 wm: Mutter dm: LightDM Distro: Linux Mint 21 Vanessa base: Ubuntu 22.04 jammy
@@ -58,24 +61,29 @@ Graphics:
   Monitor-2: VGA-1-1 pos: primary,left res: 1920x1080 dpi: 96 diag: 587mm (23.1")
   OpenGL: renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 v: 4.6.0 NVIDIA 525.147.05
     direct render: Yes
-## --------------------------------------------
+---    
+# ====================================
 
-## --------------------------------------------
+# ====================================
+---
 renderer:	'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
 vendor:		'NVIDIA Corporation'
 version:	'4.6.0 NVIDIA 525.147.05'
 device type:	'NVIDIA'
 backend type:	'OPENGL'
-## --------------------------------------------
+---
+# ====================================
 
 # Probado exitosamente en
 # Edición	Windows 11 Pro
-## --------------------------------------------
+# ====================================
+---
 Procesador	Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz   3.40 GHz
 RAM instalada	16,0 GB (15,9 GB usable)
 Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
 Versión	23H2
 Versión del sistema operativo	22631.2861
 Experiencia	Windows Feature Experience Pack 1000.22681.1000.0
-## --------------------------------------------
+---
+# ====================================
 
