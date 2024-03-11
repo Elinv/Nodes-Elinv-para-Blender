@@ -25,16 +25,16 @@ file system encoding: utf-8:surrogateescape
 Blender:
 # ====================================
 ---
-version: 4.0.2, branch: blender-v4.0-release, commit date: 2023-12-05 07:41, hash: 9be62e85b727, type: release
-build date: 2023-12-05, 08:48:50
-platform: 'Linux-5.15.0-91-generic-x86_64-with-glibc2.35'
+  version: 4.0.2, branch: blender-v4.0-release, commit date: 2023-12-05 07:41, hash: 9be62e85b727, type: release
+  build date: 2023-12-05, 08:48:50
+  platform: 'Linux-5.15.0-91-generic-x86_64-with-glibc2.35'
 ---
 # ====================================
 
 
 # Probado exitosamente en Linux Mint 21 Vanessa
 # ====================================
----
+---  
 System:
   Kernel: 5.15.0-91-generic x86_64 bits: 64 compiler: gcc v: 11.4.0 Desktop: Cinnamon 5.4.12
     tk: GTK 3.24.33 wm: Mutter dm: LightDM Distro: Linux Mint 21 Vanessa base: Ubuntu 22.04 jammy
